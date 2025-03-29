@@ -18,6 +18,7 @@ Examples of code I have written for games.
 * AR collection of microgames utilising Leap Motion technology made with Unity
 * Developed with a small team at Media Design School
 * Learning how to effectively utilise tracking data that Leap Motion provided in making microgames was a very exciting experience
+* [Watch a trailer of it here!](https://www.youtube.com/watch?v=VqBTSD4dq-U)
 
 <b>Space Invaders Mothership (c++) </b>
 * Reimagined Space Invaders game with more combat variety and a bullet-hell like final boss made as a native Windows application
